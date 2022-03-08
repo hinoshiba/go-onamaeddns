@@ -1,3 +1,0 @@
-Usage: macOS GUI
-===
-WIP
